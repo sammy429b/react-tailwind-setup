@@ -1,0 +1,13 @@
+{
+  "name": "@sammy429b/react-tailwind-setup",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "setuptail": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
